@@ -132,11 +132,14 @@ ul {
   }
   .footer{
       background-color: #1f2937;
+      margin:0;
       
   }
   .footer{
       text-align: center;
       color: white;
+      font-size: 10px;
+      
   }
   html, body{
 
